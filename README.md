@@ -8,7 +8,7 @@ before lunch, so I decided to attempt solving the problem.
 If you are interested in my approach and comments I invite you to visit 
 the associated post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/01/22/halloween-party-in-java/
 
 Keep on reading and experimenting. It is one of the best ways to learn.
 
